@@ -34,7 +34,6 @@
 - [Tulip](https://tulip.co)
 - [炎黄盈动](https://www.actionsoft.com.cn)
 - [APICloud](https://www.apicloud.com)
-- [APICloud](https://www.apicloud.com)
 - [BuildRun](https://gobuildrun.com/zh)
 - [NetSuite](https://www.netsuite.com)
 - [Bubble](https://bubble.io)
@@ -74,7 +73,7 @@
 ## 低代码中台
 - [数式科技](https://shushi.pro)
 ## 数据中台
-- [数澜](https://www.dtwave.com)
+- [数澜科技](https://www.dtwave.com)
 ## 数据分析/报表
 - [Tableau](https://www.tableau.com)
 - [Oracle Analytics](https://www.oracle.com/business-analytics)
