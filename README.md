@@ -65,12 +65,12 @@
 
 # 其他
 ## SaaS+PaaS
-- Salesforce
-- Jira
-- Zoho
-- 销售易
-- 纷享逍客
-- 北森
+- [Salesforce](https://www.salesforce.com)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Zoho](https://www.zoho.com)
+- [销售易](https://www.xiaoshouyi.com)
+- [纷享逍客](https://www.fxiaoke.com)
+- [北森](https://www.beisen.com)
 ## 低代码中台
 - [数式科技](https://shushi.pro)
 ## 数据中台
