@@ -72,8 +72,8 @@ Table of Contents
 ## iResearch
 -
 ## Forrester
--[The Forrester Wave™: Low-Code Development Platforms For AD&D Professionals, Q1 2019](https://reprints.forrester.com/#/assets/2/108/RES144387/reports) 2019-03-13
--[New Development Platforms Emerge For Customer-Facing Applications](https://www.forrester.com/report/New+Development+Platforms+Emerge+For+CustomerFacing+Applications/-/E-RES113411) 2014-06-09
+- [The Forrester Wave™: Low-Code Development Platforms For AD&D Professionals, Q1 2019](https://reprints.forrester.com/#/assets/2/108/RES144387/reports) 2019-03-13
+- [New Development Platforms Emerge For Customer-Facing Applications](https://www.forrester.com/report/New+Development+Platforms+Emerge+For+CustomerFacing+Applications/-/E-RES113411) 2014-06-09
 ## ClickPaaS
 - [赋能SaaS，ClickPaaS低代码PaaS平台瞄准Lightning Platform](http://www.soft6.com/news/202010/16/370098.html) 中国软件网 2020-10-16
 - [低代码/无代码，在国内还有多长的路要走？](https://blog.csdn.net/csdnnews/article/details/107970153) CSDN 2020-08-12
