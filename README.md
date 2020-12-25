@@ -77,6 +77,8 @@ Table of Contents
 -
 ## Forrester
 -
+## More
+- [全版|2020中国低代码平台指数测评报告](https://mp.weixin.qq.com/s/lPpUPpCGsLbGPom_LEIQBw) 人称T客 2020-12-24
 
 # Others
 ## SaaS+PaaS
