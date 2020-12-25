@@ -63,7 +63,17 @@ Table of Contents
 - [Boomi](https://boomi.com)
 - [ClickPaaS iPaaS](https://www.clickpaas.com)
 
+---
+
 # Blog Posts
+## Gartner 
+- [Gartner Magic Quadrant for Enterprise Low-Code Application Platforms, 2020](https://www.gartner.com/doc/reprints?id=1-1FKNU1TK&ct=190711&st=sb) 2020-09-30
+- [Critical Capabilities for Enterprise Low-Code Application Platforms](https://www.gartner.com/en/documents/3970417) 2019-10-17
+## iResearch
+-
+## Forrester
+-[The Forrester Wave™: Low-Code Development Platforms For AD&D Professionals, Q1 2019](https://reprints.forrester.com/#/assets/2/108/RES144387/reports) 2019-03-13
+-[New Development Platforms Emerge For Customer-Facing Applications](https://www.forrester.com/report/New+Development+Platforms+Emerge+For+CustomerFacing+Applications/-/E-RES113411) 2014-06-09
 ## ClickPaaS
 - [赋能SaaS，ClickPaaS低代码PaaS平台瞄准Lightning Platform](http://www.soft6.com/news/202010/16/370098.html) 中国软件网 2020-10-16
 - [低代码/无代码，在国内还有多长的路要走？](https://blog.csdn.net/csdnnews/article/details/107970153) CSDN 2020-08-12
@@ -71,14 +81,11 @@ Table of Contents
 - [低代码：to B的“电商式”战场 ](https://www.xfz.cn/post/9186.html) 小饭桌 2019-10-23
 - [企业应用新的生产力在哪？](https://www.niutoushe.com/29833) 崔牛会 2019-06-10
 - [PaaS是SaaS巨大的入门门槛和技术鸿沟？](https://www.niutoushe.com/23405) 崔牛会 2019-02-28
-## Gartner 
--
-## iResearch
--
-## Forrester
--
 ## More
 - [全版|2020中国低代码平台指数测评报告](https://mp.weixin.qq.com/s/lPpUPpCGsLbGPom_LEIQBw) 人称T客 2020-12-24
+- [什么是低代码（Low-Code）？](https://mp.weixin.qq.com/s/tMC1Uas99F28_tU5lH0CNw) 阿里技术 2020-11-16
+
+---
 
 # Others
 ## SaaS+PaaS
