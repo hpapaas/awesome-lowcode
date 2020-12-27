@@ -57,6 +57,9 @@ Table of Contents
 - [Apprat](https://www.apprat.io)
 - [Siebel Tools](https://docs.oracle.com/cd/E05554_01/books/ToolsRef/ToolsRefusing2.html)
 - [PeopleSoft Tools](http://www.oracle.com/cn/products/applications/peoplesoft-enterprise/tools-tech/index.html)
+- [华炎魔方](https://www.steedos.com/platform)
+- [白码](https://www.bnocode.com)
+- [JEPaaS](http://www.jepaas.com)
 
 # iPaaS
 - [MuleSoft](https://www.mulesoft.com)
