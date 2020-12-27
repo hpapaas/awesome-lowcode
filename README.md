@@ -29,6 +29,7 @@ Table of Contents
 - [宜搭](https://www.aliwork.com)
 - [简道云](https://www.jiandaoyun.com)
 - [速融云](https://www.surongyun.cn)
+- [得帆云](https://definesys.cn)
 ### 表格模型
 - [Airtable](https://airtable.com)
 - [Monday](https://monday.com)
@@ -59,6 +60,7 @@ Table of Contents
 - [PeopleSoft Tools](http://www.oracle.com/cn/products/applications/peoplesoft-enterprise/tools-tech/index.html)
 - [Joget](https://www.joget.org)
 - [华炎魔方](https://www.steedos.com/platform)
+- [搭搭云](https://www.dadayun.cn)
 - [JEPaaS](http://www.jepaas.com)
 - [引迈信息](https://www.jnpfsoft.com)
 
