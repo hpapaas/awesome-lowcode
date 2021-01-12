@@ -82,6 +82,7 @@ Table of Contents
 ## iResearch
 - [2020年中国BPM市场研究报告](http://report.iresearch.cn/report_pdf.aspx?id=3656)
 ## ClickPaaS
+- [迎接春天，ClickPaaS奏响低代码三部曲](https://mp.weixin.qq.com/s/r0aRwa2szXihMmf0e7HKWw) 中智观察 2021-01-11
 - [赋能SaaS，ClickPaaS低代码PaaS平台瞄准Lightning Platform](http://www.soft6.com/news/202010/16/370098.html) 中国软件网 2020-10-16
 - [低代码/无代码，在国内还有多长的路要走？](https://blog.csdn.net/csdnnews/article/details/107970153) CSDN 2020-08-12
 - [ClickPaaS：低代码助力企业数字化转型](http://www.it-times.com.cn/a/company/2019/1222/31276.html) IT时报 2019-12-22
