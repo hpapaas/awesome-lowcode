@@ -64,7 +64,7 @@ Table of Contents
 - [搭搭云](https://www.dadayun.cn)
 - [JEPaaS](http://www.jepaas.com)
 - [引迈信息](https://www.jnpfsoft.com)
-
+- [爱速搭](https://suda.baidu.com)
 # iPaaS
 - [MuleSoft](https://www.mulesoft.com)
 - [Boomi](https://boomi.com)
