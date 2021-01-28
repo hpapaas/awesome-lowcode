@@ -68,6 +68,7 @@ Table of Contents
 # iPaaS
 - [MuleSoft](https://www.mulesoft.com)
 - [Boomi](https://boomi.com)
+- [Informatica](https://www.informatica.com)
 - [ClickPaaS iPaaS](https://www.clickpaas.com)
 
 ---
