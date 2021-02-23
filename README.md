@@ -26,6 +26,7 @@ Table of Contents
 - [明道云](https://www.mingdao.com)
 - [轻流](https://qingflow.com)
 - [氚云](https://www.h3yun.com)
+- [云枢](https://www.cloudpivot.cn)
 - [宜搭](https://www.aliwork.com)
 - [简道云](https://www.jiandaoyun.com)
 - [速融云](https://www.surongyun.cn)
