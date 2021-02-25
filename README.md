@@ -92,6 +92,7 @@ Table of Contents
 - [企业应用新的生产力在哪？](https://www.niutoushe.com/29833) 崔牛会 2019-06-10
 - [PaaS是SaaS巨大的入门门槛和技术鸿沟？](https://www.niutoushe.com/23405) 崔牛会 2019-02-28
 ## More
+- [低代码是一门好生意吗？](http://www.infoobs.com/article/20210225/45511.html) 科技云报道 2021-02-25
 - [全版|2020中国低代码平台指数测评报告](https://mp.weixin.qq.com/s/lPpUPpCGsLbGPom_LEIQBw) 人称T客 2020-12-24
 - [什么是低代码（Low-Code）？](https://mp.weixin.qq.com/s/tMC1Uas99F28_tU5lH0CNw) 阿里技术 2020-11-16
 
