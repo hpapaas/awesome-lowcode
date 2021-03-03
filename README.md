@@ -27,7 +27,7 @@ Table of Contents
 - [轻流](https://qingflow.com)
 - [氚云](https://www.h3yun.com)
 - [云枢](https://www.cloudpivot.cn)
-- [宜搭](https://www.aliwork.com)
+- [阿里宜搭](https://www.aliwork.com)
 - [简道云](https://www.jiandaoyun.com)
 - [速融云](https://www.surongyun.cn)
 - [得帆云](https://definesys.cn)
@@ -65,7 +65,8 @@ Table of Contents
 - [搭搭云](https://www.dadayun.cn)
 - [JEPaaS](http://www.jepaas.com)
 - [引迈信息](https://www.jnpfsoft.com)
-- [爱速搭](https://suda.baidu.com)
+- [百度爱速搭](https://suda.baidu.com)
+- [华为AppCube](https://www.huaweicloud.com/product/appcube.html)
 # iPaaS
 - [MuleSoft](https://www.mulesoft.com)
 - [Boomi](https://boomi.com)
