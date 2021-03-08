@@ -118,6 +118,10 @@ Table of Contents
 - [帆软](https://www.fanruan.com)
 - [网易有数](https://youdata.163.com)
 ## RPA
+- [UiPath](https://www.uipath.com.cn)
+- [AutomationAnywhere](https://www.automationanywhere.cn)
+- [BluePrism](https://www.blueprism.com)
+- [WorkFusion](https://www.workfusion.com)
 - [阿里云RPA](https://cn.aliyun.com/product/codestore)
 - [Abridged](https://abridged.io)
 - [Zapier](https://zapier.com)
