@@ -131,6 +131,7 @@ Table of Contents
 - [Zapier](https://zapier.com)
 - [Airslate](https://www.airslate.com)
 - [Automate](https://automate.io)
+- [Tray.io](https://tray.io)
 - [集简云](https://jijyun.cn)
 ## 问卷
 - [Typeform](https://www.typeform.com)
