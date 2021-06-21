@@ -68,6 +68,7 @@ Table of Contents
 - [引迈信息](https://www.jnpfsoft.com)
 - [百度爱速搭](https://suda.baidu.com)
 - [华为AppCube](https://www.huaweicloud.com/product/appcube.html)
+- [腾讯云微搭](https://cloud.tencent.com/product/weda)
 # iPaaS
 - [MuleSoft](https://www.mulesoft.com)
 - [Boomi](https://boomi.com)
