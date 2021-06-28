@@ -133,6 +133,7 @@ Table of Contents
 - [Zapier](https://zapier.com)
 - [Airslate](https://www.airslate.com)
 - [Automate](https://automate.io)
+- [Nintex](https://www.nintex.com/process-automation/)
 - [Tray.io](https://tray.io)
 - [集简云](https://jijyun.cn)
 ## 问卷
