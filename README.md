@@ -103,6 +103,7 @@ Table of Contents
 - [PaaS是SaaS巨大的入门门槛和技术鸿沟？](https://www.niutoushe.com/23405) 崔牛会 2019-02-28
 ## More
 - [万字长文讲透低代码](https://mp.weixin.qq.com/s/OXCBORheAx99o3fS-ZfUdg) 风轻扬 2021-06-29
+- [Decoding the no-code / low-code startup universe and its players](https://pinver.medium.com/decoding-the-no-code-low-code-startup-universe-and-its-players-4b5e0221d58b)
 - [2021 Predictions: Spurred on by Health Crisis, Innovative Technologies Will Come of Age as Low-Code Transforms Enterprise Architecture](https://www.mendix.com/blog/2021-predictions-spurred-on-by-health-crisis-innovative-technologies-will-come-of-age-as-low-code-transforms-enterprise-architecture/) MENDIX 2021-02-11
 - [低代码是一门好生意吗？](http://www.infoobs.com/article/20210225/45511.html) 科技云报道 2021-02-25
 - [全版|2020中国低代码平台指数测评报告](https://mp.weixin.qq.com/s/lPpUPpCGsLbGPom_LEIQBw) 人称T客 2020-12-24
