@@ -25,13 +25,13 @@ Table of Contents
 - [Zoho Creator](https://www.zoho.com/creator)
 - [明道云](https://www.mingdao.com)
 - [轻流](https://qingflow.com)
-- [氚云](https://www.h3yun.com)
-- [云枢](https://www.cloudpivot.cn)
+- [奥哲氚云](https://www.h3yun.com)
 - [阿里宜搭](https://www.aliwork.com)
 - [简道云](https://www.jiandaoyun.com)
 - [速融云](https://www.surongyun.cn)
 - [得帆云](https://definesys.cn)
 - [织信](https://www.informat.cn)
+- [道一云七巧](https://qiqiao.do1.com.cn)
 ### 表格模型
 - [Airtable](https://airtable.com)
 - [Monday](https://monday.com)
@@ -54,7 +54,8 @@ Table of Contents
 - [Tulip](https://tulip.co)
 - [HoneyCode](https://www.honeycode.aws)
 - [Creatio](https://www.creatio.io/)
-- [炎黄盈动](https://www.actionsoft.com.cn)
+- [炎黄AWSPaaS](http://www.awspaas.com/)
+- [炎黄易鲸云](https://www.yijingcloud.com/)
 - [泛微e-builder](https://www.e-builder.cn)
 - [APICloud](https://www.apicloud.com)
 - [BuildRun](https://gobuildrun.com/zh)
@@ -74,6 +75,8 @@ Table of Contents
 - [华为AppCube](https://www.huaweicloud.com/product/appcube.html)
 - [腾讯云微搭](https://cloud.tencent.com/product/weda)
 - [百特搭](https://www.baiteda.com/)
+- [网易轻舟](https://sf.163.com/product/lcap)
+- [奥哲云枢](https://www.cloudpivot.cn)
 
  
 # iPaaS
@@ -122,7 +125,6 @@ Table of Contents
 - [纷享逍客](https://www.fxiaoke.com)
 - [北森](https://www.beisen.com)
 ## 低代码中台
-- [滴普科技](https://www.deepexi.com)
 - [数式科技](https://shushi.pro)
 ## 数据中台
 - [数澜科技](https://www.dtwave.com)
@@ -131,6 +133,10 @@ Table of Contents
 - [Oracle Analytics](https://www.oracle.com/business-analytics)
 - [帆软](https://www.fanruan.com)
 - [网易有数](https://youdata.163.com)
+- [Quick BI](https://www.aliyun.com/product/bigdata/bi)
+- [网易有数](https://youdata.163.com)
+- [ByteHouse企业版](https://www.volcengine.com/products/bytehouse-enterprise)
+- [数睿数据](https://www.sdata1010.cn)
 ## RPA
 - [UiPath](https://www.uipath.com.cn)
 - [AutomationAnywhere](https://www.automationanywhere.cn)
